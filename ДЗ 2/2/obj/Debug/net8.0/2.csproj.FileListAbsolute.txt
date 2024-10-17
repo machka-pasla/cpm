@@ -1,0 +1,14 @@
+/Users/machka/Desktop/шарп/ДЗ 2/2/bin/Debug/net8.0/2
+/Users/machka/Desktop/шарп/ДЗ 2/2/bin/Debug/net8.0/2.deps.json
+/Users/machka/Desktop/шарп/ДЗ 2/2/bin/Debug/net8.0/2.runtimeconfig.json
+/Users/machka/Desktop/шарп/ДЗ 2/2/bin/Debug/net8.0/2.dll
+/Users/machka/Desktop/шарп/ДЗ 2/2/bin/Debug/net8.0/2.pdb
+/Users/machka/Desktop/шарп/ДЗ 2/2/obj/Debug/net8.0/2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/machka/Desktop/шарп/ДЗ 2/2/obj/Debug/net8.0/2.AssemblyInfoInputs.cache
+/Users/machka/Desktop/шарп/ДЗ 2/2/obj/Debug/net8.0/2.AssemblyInfo.cs
+/Users/machka/Desktop/шарп/ДЗ 2/2/obj/Debug/net8.0/2.csproj.CoreCompileInputs.cache
+/Users/machka/Desktop/шарп/ДЗ 2/2/obj/Debug/net8.0/2.dll
+/Users/machka/Desktop/шарп/ДЗ 2/2/obj/Debug/net8.0/refint/2.dll
+/Users/machka/Desktop/шарп/ДЗ 2/2/obj/Debug/net8.0/2.pdb
+/Users/machka/Desktop/шарп/ДЗ 2/2/obj/Debug/net8.0/2.genruntimeconfig.cache
+/Users/machka/Desktop/шарп/ДЗ 2/2/obj/Debug/net8.0/ref/2.dll
