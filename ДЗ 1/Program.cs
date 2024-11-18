@@ -4,11 +4,9 @@ class Program
 {
     static void Main()
     {
-        // Заголовок таблицы
         Console.WriteLine("{0,-10} {1,-20} {2,30} {3,30}", "Type", "Byte(s) of memory", "Min", "Max");
         Console.WriteLine(new string('-', 100));
 
-        // Вызов обобщенного метода для каждого типа
         PrintTypeInfo<sbyte>("sbyte");
         PrintTypeInfo<byte>("byte");
         PrintTypeInfo<short>("short");
@@ -22,14 +20,12 @@ class Program
         PrintTypeInfo<decimal>("decimal");
     }
 
-    // Обобщенный метод для вывода информации о типе
     static void PrintTypeInfo<T>(string typeName) where T : struct, IComparable
     {
         int size = System.Runtime.InteropServices.Marshal.SizeOf(typeof(T));
         var minValue = typeof(T).GetField("MinValue").GetValue(null);
         var maxValue = typeof(T).GetField("MaxValue").GetValue(null);
 
-        // Форматированный вывод данных в таблицу
         Console.WriteLine("{0,-10} {1,-20} {2,30} {3,30}", typeName, size, minValue, maxValue);
     }
 }
